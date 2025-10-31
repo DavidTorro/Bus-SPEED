@@ -29,8 +29,8 @@ Para que el programa funcione correctamente, los hilos de tipo **Speed** deben �
 Es decir, cuando un hilo está esperando para **acelerar**, notificará al hilo encargado de **frenar**, y viceversa, para que se alternen en el control de la velocidad.
 
 Se recomienda tener las siguientes clases:
-- `Principal.java`
-- `Autobus.java`
+- `Main.java`
+- `Bus.java`
 - `Speed.java`
 
 ---
